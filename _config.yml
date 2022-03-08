@@ -1,6 +1,6 @@
 # Setup
 title: Ka Yoon Kim
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+description: Making the better society with technology
 url: https://gayoooon1.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -28,14 +28,14 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: NULL
-  card: NULL
+#twitter:
+  #username: NULL
+  #card: NULL
 logo: logo.png
 social:
   name: Ka Yoon Kim
   links:
-    - https://twitter.com/vszhub
+    #- https://twitter.com/vszhub
     - https://github.com/gayoooon1
 google_site_verification: xxxxx
 lang: en
