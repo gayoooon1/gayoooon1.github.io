@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
-  card: summary
+  username: NULL
+  card: NULL
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Ka Yoon Kim
   links:
     - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/gayoooon1
 google_site_verification: xxxxx
 lang: en
 
