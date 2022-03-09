@@ -7,8 +7,10 @@ date: 2022-03-09 14:52 +0900
 toc: true
 ---
 
+Paper review : Categorical Reparameterization with Gumbel Softmax   
 
-There will be an brief review about the paper.  
+There will be an brief review about the paper.   
+
 
 ## Abstract   
 
