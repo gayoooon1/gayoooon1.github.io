@@ -8,10 +8,8 @@ toc: true
    
   
   
-Paper review : Categorical Reparameterization with Gumbel Softmax  
+Paper review : Categorical Reparameterization with Gumbel Softmax
 
-
-There will be an brief review about the paper.   
 
 
 ## Abstract   
