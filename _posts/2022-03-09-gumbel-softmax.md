@@ -3,7 +3,7 @@ layout: post
 title: Categorical Reparameterization with Gumbel Softmax
 tags: gumbel-softmax
 math: true
-date: 2022-03-09 14:52 +0800
+date: 2022-03-09 14:52
 ---
 
 # Categorical Reparameterization with Gumbel Softmax   
