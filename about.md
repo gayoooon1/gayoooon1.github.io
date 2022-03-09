@@ -3,6 +3,13 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+Hi, I am Ka Yoon Kim from South Korea.   
+I am a senior at Chung-Ang University.   
+I am currently studying Machine Learning.   
+In detail, I have studied Recommendation System.   
+I like analyzing a big data and find the value from it.   
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+For more information, please visit my LinkedIn & GitHub.   
+Do not hesitate to contact me! 😉    
+Best wishes,   
+Ka Yoon
