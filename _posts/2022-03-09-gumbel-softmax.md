@@ -1,3 +1,11 @@
+---
+layout: post
+title: Categorical Reparameterization with Gumbel Softmax
+tags: gumbel-softmax
+math: true
+date: 2022-03-09 14:52 +0800
+---
+
 # Categorical Reparameterization with Gumbel Softmax   
 ## Abstract
 * 확률적 NN들은 Categorical 잠재 변수들을 역전파가 불가능하기 때문에 잘 사용하지 않음
