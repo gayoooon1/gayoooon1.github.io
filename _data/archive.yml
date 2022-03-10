@@ -4,6 +4,9 @@
 - type: categories
   title: Categories
   url: /categories/
+- type: categories
+  title: Paper Review
+  url: /paperreview/
 - type: tags
   title: Tags
   url: /tags/
