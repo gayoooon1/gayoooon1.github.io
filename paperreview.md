@@ -1,6 +1,6 @@
 ---
 layout: archive-taxonomies
-permalink: /categories/
+permalink: /paperreview/
 title: Paper Review
-type: categories
+type: paperreview
 ---
