@@ -41,7 +41,7 @@
 
   --heading-color: var(--gray-900);
 
-  --border-color: #ffffff;
+  --border-color: var(--babypink); // 블로그 누르면 보이는 border line
   --border-radius: .25rem;
 
   --code-font: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
@@ -63,7 +63,7 @@
     --link-color: var(--blue-200);
     --link-hover-color: var(--blue-200);
 
-    --border-color: var(--babypink); //rgba(255,255,255,.15); # 블로그 누르면 보이는 border line
+    --border-color: rgba(255,255,255,.15); 
 
     --code-bg: #ffffff; //#282828;
   }
