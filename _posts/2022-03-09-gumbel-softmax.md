@@ -9,7 +9,7 @@ toc: true
   
   
 Paper review : Categorical Reparameterization with Gumbel Softmax   
-</br>
+   
 
 ## Abstract   
 
@@ -20,7 +20,7 @@ Paper review : Categorical Reparameterization with Gumbel Softmax
 
 * Stochastic NN + 이산 random variables = powerful BUT, 역전파 알고리즘 때문에 train이 불편 ->미분 불가 layers 때문   
 1. Gumbel softmax는 연속분포로서 범주형 변수를 근사해줌 (reparameterization trick 사용해서 파라미터 쉽게 찾음)   
-  * Categorical variables는 Nominal(명목형) ex. 성별 Ordinal(순서형) ex. 교육수준(초졸=1,...대졸 이상=4)를 모두 포함.   
+    * Categorical variables는 Nominal(명목형) ex. 성별 Ordinal(순서형) ex. 교육수준(초졸=1,...대졸 이상=4)를 모두 포함.   
 2. 베르누이 변수 & 범주형 변수 모두 사용해서 실험   
 3. Semi-supervised models train 하는데도 효과적이라는 것을 보임   
 
@@ -57,6 +57,7 @@ Paper review : Categorical Reparameterization with Gumbel Softmax
 
 ## Related Work   
   Review existing stochastic gradient estimation techniques for discrete variables   
+  
   ### Path Derivative Gradient Estimators   
     * We exploit such a trick in the construction of the Gumbel-Softmax estimator.     
   * Gumbel-Softmax avoids this problem because each sample y is a differentiable proxy of the corresponding discrete sample z.   
